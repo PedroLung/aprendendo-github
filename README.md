@@ -39,7 +39,7 @@ git branch
 ```
 - Fazer um merge
 
-Obs: Fique na branch que você quer receber os códigos
+- Obs: Fique na branch que você quer receber os códigos
 ```
 git merge <nome da branch que você quer pegar o código>
 ```
