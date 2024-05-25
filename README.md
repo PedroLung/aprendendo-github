@@ -1,6 +1,14 @@
 # aprendendo-github
 
 ## Comandos:
+- Criar um Repositório Local:
+```
+git init
+```
+- Conectar com o Repositório Online:
+```
+git remote add origin <URL_do_repositório>
+```
 - Clonar Repositório:
 ```
 git clone url-do-git
